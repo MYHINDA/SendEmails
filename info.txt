@@ -1,3 +1,0 @@
-to = 'h8565956@gmail.com'
-usr_name = 'h8565956@gmail.com'
-email_password = 'Hi207320615'
